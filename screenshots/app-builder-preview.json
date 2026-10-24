@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Grok",
+      "hasCanvas": false,
+      "bodyTextLen": 275,
+      "bodyTextHash": "e4df353d1468b205802499fd75287deb216e56f89baea958f68cbf45d562fc26",
+      "bodyTextPrefix": "Grok Новый чат Новый холст AI-Grok-Bot Grok Bot Чаты Первый разг",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Grok",
+      "hasCanvas": false,
+      "bodyTextLen": 112,
+      "bodyTextHash": "afb64e4fb7053a42993677d4d82605bae8c4824cfd0e9693f3e1f6ba7b0c2ed3",
+      "bodyTextPrefix": "Новый чат Что мы будем исследовать? Grok Чат Изображение Видео А",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
